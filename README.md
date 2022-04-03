@@ -11,3 +11,5 @@ For generating reports compatible with Jenkins environment, the template of Exte
 Document for pom.xml is provided to understand list of dependencies needed and plugin to execute eclipse project in Jenkins.
 
 The repository is easy guide to integrate Maven, Selenium, TestNG and Jenkins.
+
+Don't forgot read testng.xml details, ExportReporterNG details, Document pom.xml
